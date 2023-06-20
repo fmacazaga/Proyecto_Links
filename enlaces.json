@@ -1,0 +1,164 @@
+[
+  {
+    "nombre": "Best Website Gallery",
+    "url": "https://bestwebsite.gallery/",
+    "descripcion": "Galería de los mejores sitios web para inspiración.",
+    "categoria": "Inspiración"
+  },
+  {
+    "nombre": "CSS Néctar",
+    "url": "https://cssnectar.com/",
+    "descripcion": "Galería de sitios web con diseños destacados y CSS bien implementado.",
+    "categoria": "Inspiración"
+  },
+  {
+    "nombre": "Awwwards",
+    "url": "https://www.awwwards.com",
+    "descripcion": "Premios y reconocimientos a sitios web con diseño excepcional.",
+    "categoria": "Inspiración"
+  },
+  {
+    "nombre": "FW Awards",
+    "url": "https://thefwa.com",
+    "descripcion": "Premios a sitios web con diseño y creatividad sobresalientes.",
+    "categoria": "Inspiración"
+  },
+  {
+    "nombre": "SiteInspire",
+    "url": "https://www.siteinspire.com",
+    "descripcion": "Galería de sitios web creativos y bien diseñados.",
+    "categoria": "Inspiración"
+  },
+  {
+    "nombre": "Behance",
+    "url": "https://www.behance.net",
+    "descripcion": "Plataforma para mostrar y descubrir trabajos creativos en diseño.",
+    "categoria": "Inspiración"
+  },
+  {
+    "nombre": "Dribbble",
+    "url": "https://dribbble.com",
+    "descripcion": "Comunidad de diseñadores para mostrar y descubrir trabajos creativos.",
+    "categoria": "Inspiración"
+  },
+  {
+    "nombre": "Fondello",
+    "url": "https://fontello.com/",
+    "descripcion": "Generador de fuentes con iconos personalizados.",
+    "categoria": "Tipografía"
+  },
+  {
+    "nombre": "Font Converter",
+    "url": "https://www.fontconverter.io/en",
+    "descripcion": "Herramienta para convertir fuentes de un formato a otro.",
+    "categoria": "Tipografía"
+  },
+  {
+    "nombre": "Fonts Subsetter",
+    "url": "https://everythingfonts.com/subsetter",
+    "descripcion": "Herramienta para reducir el tamaño de archivos de fuentes eliminando glifos innecesarios.",
+    "categoria": "Tipografía"
+  },
+  {
+    "nombre": "Typographic Poster",
+    "url": "https://www.typographicposters.com",
+    "descripcion": "Recopilación de carteles tipográficos creativos.",
+    "categoria": "Tipografía"
+  },
+  {
+    "nombre": "TypographyNerd",
+    "url": "http://www.typographynerd.de",
+    "descripcion": "Descarga de fuentes gratis y recursos relacionados con tipografía.",
+    "categoria": "Tipografía"
+  },
+  {
+    "nombre": "Fonts in Use",
+    "url": "https://fontsinuse.com",
+    "descripcion": "Recopilación de ejemplos de uso de fuentes en diseños reales.",
+    "categoria": "Tipografía"
+  },
+  {
+    "nombre": "TypeWolf",
+    "url": "https://www.typewolf.com",
+    "descripcion": "Recursos y consejos para seleccionar y combinar tipografías en diseños.",
+    "categoria": "Tipografía"
+  },
+  {
+    "nombre": "Patternify",
+    "url": "http://www.patternify.com",
+    "descripcion": "Herramienta para crear patrones en formato PNG y guardarlos como base 64.",
+    "categoria": "Vectores"
+  },
+  {
+    "nombre": "SVG Repo",
+    "url": "https://www.svgrepo.com",
+    "descripcion": "Descarga de imágenes SVG gratuitas.",
+    "categoria": "Vectores"
+  },
+  {
+    "nombre": "SVG Optimizer",
+    "url": "https://svgoptimizer.com/es/",
+    "descripcion": "Herramienta para reducir el tamaño de archivos SVG.",
+    "categoria": "Vectores"
+  },
+  {
+    "nombre": "Freepik",
+    "url": "https://www.freepik.es",
+    "descripcion": "Banco de imágenes gratuitas.",
+    "categoria": "Vectores"
+  },
+  {
+    "nombre": "Vecteezy",
+    "url": "https://es.vecteezy.com",
+    "descripcion": "Banco de imágenes vectoriales gratuitas.",
+    "categoria": "Vectores"
+  },
+  {
+    "nombre": "Unsplash",
+    "url": "https://unsplash.com",
+    "descripcion": "Banco de fotografías de alta calidad y licencia libre.",
+    "categoria": "Fotografía"
+  },
+  {
+    "nombre": "Life of Pix",
+    "url": "https://www.lifeofpix.com",
+    "descripcion": "Banco de fotografías gratuitas de alta resolución.",
+    "categoria": "Fotografía"
+  },
+  {
+    "nombre": "Pixabay",
+    "url": "https://pixabay.com",
+    "descripcion": "Banco de imágenes gratuitas y de dominio público.",
+    "categoria": "Fotografía"
+  },
+  {
+    "nombre": "Videvo",
+    "url": "https://www.videvo.net",
+    "descripcion": "Banco de videos gratuitos.",
+    "categoria": "Videos"
+  },
+  {
+    "nombre": "MockupWorld",
+    "url": "https://www.mockupworld.co",
+    "descripcion": "Recopilación de maquetas y mockups gratuitos para mostrar diseños.",
+    "categoria": "Mockups"
+  },
+  {
+    "nombre": "IconFinder",
+    "url": "https://www.iconfinder.com",
+    "descripcion": "Recopilación de miles de iconos gratuitos para descargar.",
+    "categoria": "Iconos"
+  },
+  {
+    "nombre": "Icon-Icons",
+    "url": "https://icon-icons.com/es",
+    "descripcion": "Recopilación de iconos gratuitos en diferentes formatos y estilos.",
+    "categoria": "Iconos"
+  },
+  {
+    "nombre": "Freeicons",
+    "url": "https://freeicons.io",
+    "descripcion": "Recopilación de iconos gratuitos en diferentes formatos.",
+    "categoria": "Iconos"
+  }
+]
